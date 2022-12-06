@@ -79,8 +79,6 @@
 		<body>	
 		<p>Organising routine and exceptional testing of security controls within the service to ensure they are continuing to function effectively.</p>
 		</body>
-		
-	</topic>
 			
 	</topic>
 			
@@ -91,3 +89,11 @@
 		</body>
 		
 	</topic>
+			
+	<topic id="event-detection-activities">
+          <title>Event Detection Activities</title>
+		<body>	
+		<p>Undertaking specific activities to uncover security-relevant events across the service; including operating canary tokens, honeypots, threat hunting, data loss prevention, network monitoring, SaaS security monitoring, and shadow IT detection as applicable./p>
+		</body>
+		
+	</topic>		
