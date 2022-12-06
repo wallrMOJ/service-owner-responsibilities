@@ -64,3 +64,12 @@
 		</body>
 		
 	</topic>
+	
+	<topic id="threat-and-vulnerability-management">
+          <title>Threat and Vulnerability Management</title>
+		<body>	
+		<p>Threat and Vulnerability Management - Activities taken to ensure the service remains protected against vulnerabilities, through vulnerability scanning, and remedial actions.</p>
+		<p>This also includes ensuring that all product teams understand their security dependencies on third parties and have effective measures in place to swiftly deploy mitigations as required when new threats emerge.</p>
+		</body>
+		
+	</topic>
