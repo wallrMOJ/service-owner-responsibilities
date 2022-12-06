@@ -96,4 +96,71 @@
 		<p>Undertaking specific activities to uncover security-relevant events across the service; including operating canary tokens, honeypots, threat hunting, data loss prevention, network monitoring, SaaS security monitoring, and shadow IT detection as applicable./p>
 		</body>
 		
+	</topic>
+	
+	<topic id="event-source-management-and-maintenance">
+          <title>Event Source Management and Maintenance</title>
+		<body>	
+		<p>Ensuring the service is routinely providing agreed security monitoring events to a security event detection solution./p>
+		</body>
+		
+	</topic>
+			
+	<topic id="incident-management-and-response">
+          <title>Incident Management and Response</title>
+		<body>	
+		<p>Developing security incident playbooks, supporting security incident triage; and Data Protection incident investigations, response, and handling to ensure security events cause minimal harm to the organisation, and that evidence is captured for any wider analysis.<xref href="https://intranet.justice.gov.uk/guidance/security/report-a-security-incident" format="html" scope=external>Report a security incident - Ministry of Justice HQ Intranet.</xref</href></p>
+		</body>
+		
+	</topic>
+			
+			
+	<topic id="supply-chain-security-and-assessment-management">
+          <title>Supply Chain Security and Assessment Management</title>
+		<body>	
+		<p>Assessing the suitability of third-party suppliers of the service. Ensuring that the product team understands and undertakes their specific respective security roles and responsibilities with the supplier with respect to the security of the service.</p>
+		</body>
+		
+	</topic>
+			
+			
+	<topic id="backup-and-recovery">
+          <title>Backup and Recovery</title>
+		<body>	
+		<p>Ensuring all critical information within the service is backed up regularly; the backups are tested regularly, and the service can be completely recovered in the event of a security incident.</p>
+		</body>
+		
 	</topic>		
+			
+	topic id="data-proteection">
+          <title>Data Protection</title>
+		<body>	
+		<p>Ensuring systems processing personal data are compliant with the Department’s Data Protection policy and relevant Acceptable Use Protocols for secure processing, transfers, and storage of personal data. Any data protection risks in relation to confidentiality, integrity or availability of personal data have remediation plans in place.<xref href="https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/privacy-reform/" format="html" scope="external">Data Protection - Ministry of Justice HQ Intranet.</href></xref></p>
+		</body>
+		
+	</topic>
+		
+	topic id="adherence-to-policies">
+          <title>Adherence to Policies</title>
+		<body>	
+		<p>Putting in place explicit processes for governance and compliance of security policies, i.e., how compliance will be monitored, reported and maintained.</p>
+		</body>
+		
+	</topic>
+		
+	topic id="secure-use-of-the-service">
+          <title>Secure Use of the Service</title>
+		<body>	
+		<p>Supporting and educating users on how they can access and use your service securely. This will be context-dependent and could be as simple as ensuring in-built user guidance helps explain security concepts in your service. For complicated end-user services, this might require eLearning or other targeted training. If you are providing a platform, this might involve specific guidance for other services which are built on it regarding their security responsibilities.</p>
+		</body>
+		
+		</topic>	
+	
+	topic id="more-information">
+          <title>More Information</title>
+		<body>	
+		<p>For assistance, please contact your local cyber consultant in the first instance. For queries on policy and guidance email <ph conref="conrefs.dita#conrefs/securityemail"</p>
+		</body>
+		
+		</topic>	
+	
