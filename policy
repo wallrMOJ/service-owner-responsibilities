@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="service-owner-responsibilities">
+	<title>Service Owner Responsibilities</title>
+	<topic id="summary">
+		<title>Summary</title>
+		<body>
+			<p>This document sets out the security responsibilities you have as the person ultimately responsible for a bespoke technology or digital service (“the technology owner”) in the Ministry of Justice (MoJ).</p>  
+      <p>The list of items below can look intimidating at first glance. However, depending on the nature of your service or technology, some of these items may be quite small.</p> 
+      <p>Every MoJ Service must have an identified person responsible for performing each of the activities listed below.</p> 
+      <p>One person may be responsible for multiple items, provided they have the appropriate skills and training to perform each duty satisfactorily. The Product or Service Owner is responsible for ensuring these activities are allocated and carried out.  
+
+ 
+
+Whilst these activities might be performed by a supplier or sub-contractor as part of delivering the service, as Product or Service Owner you remain responsible for ensuring that contract(s) require your supplier(s) to perform these activities in accordance with MoJ security policies. Security Guidance (justice.gov.uk) 
