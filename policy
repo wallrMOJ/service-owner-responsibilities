@@ -9,5 +9,26 @@
       <p>The list of items below can look intimidating at first glance. However, depending on the nature of your service or technology, some of these items may be quite small.</p> 
       <p>Every MoJ Service must have an identified person responsible for performing each of the activities listed below.</p> 
       <p>One person may be responsible for multiple items, provided they have the appropriate skills and training to perform each duty satisfactorily. The Product or Service Owner is responsible for ensuring these activities are allocated and carried out.  
-      <p>Whilst these activities might be performed by a supplier or sub-contractor as part of delivering the service, as Product or Service Owner you remain responsible for ensuring that contract(s) require your supplier(s) to perform these activities in accordance with <xref href="https://github.com/ministryofjustice/security-guidance/blob/main/dita/cyber-and-technical-security-guidance.dita" format="dita">MoJ Security Policies</href></xref>.
-	      
+      <p>Whilst these activities might be performed by a supplier or sub-contractor as part of delivering the service, as Product or Service Owner you remain responsible for ensuring that contract(s) require your supplier(s) to perform these activities in accordance with <xref href="https://github.com/ministryofjustice/security-guidance/blob/main/dita/cyber-and-technical-security-guidance.dita" format="dita">MoJ Security Policies</href></xref>.</p>
+      <p>The activities do not necessarily need to be performed within your team – for example, you might ‘outsource’ them to another area such as the Justice Digital Security Operations Centre. You remain responsible for ensuring there is a clear understanding of who is doing what in these relationships.</p>
+</body>
+</topic>			
+
+<topic id="activities">
+        <title>Activities</title>
+        <body></body>
+        <topic id="security-risk-management">
+          <title>Security Risk Management</title>
+		<body>
+		<p>Ensuring that security risks in the service are managed in accordance with wider departmental policies and escalated as necessary to senior management.</p>
+	        <p>This also includes ensuring that there is a security improvement plan to address any risks and vulnerabilities that emerge in the service.</p>
+		</body>
+	</topic>
+		
+	<topic id="secure-configuration">
+          <title>Secure Configuration</title>
+		<body>	
+		<p>Establishing and implementing default secure configurations for all aspects of the service (endpoints, platforms, services, containers etc) and ensuring these always remain current and in-place.</p>
+		</body>
+		
+	</topic>
