@@ -48,3 +48,11 @@
 		</body>
 		
 	</topic>
+			
+	<topic id="security-maintenance">
+          <title>Security Maintenance</title>
+		<body>	
+		<p>Undertaking regular (automated) activities to ensure the service remains secure – such as regular patching and review.</p>
+		</body>
+		
+	</topic>		
