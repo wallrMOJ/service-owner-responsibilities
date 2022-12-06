@@ -73,3 +73,21 @@
 		</body>
 		
 	</topic>
+			
+	<topic id="security-testing">
+          <title>Security Testing</title>
+		<body>	
+		<p>Organising routine and exceptional testing of security controls within the service to ensure they are continuing to function effectively.</p>
+		</body>
+		
+	</topic>
+			
+	</topic>
+			
+	<topic id="cryptographic-and-secrets-management">
+          <title>Cryptographic and Secrets Management</title>
+		<body>	
+		<p>Where relevant, issuing, managing, and revoking cryptographic credentials via Private Public Key Infrastructure (PKI). Also, management of shared secrets where required.</p>
+		</body>
+		
+	</topic>
