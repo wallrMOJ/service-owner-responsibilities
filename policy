@@ -45,7 +45,7 @@
 	<topic id="id-and-access-management">
           <title>ID and Access Management</title>
 		<body>	
-		<p>Regularly reviewing and ensuring user access and permissions for the service are appropriate and limited to authorised users only (including general user and privileged accounts). Ensuring that robust processes are in place for joiners, movers and leavers (JML)<xref href="https://github.com/ministryofjustice/security-guidance/blob/main/dita/end-or-change-of-employment.dita format="dita">End or change of employment - MoJ Security Guidance</href></xref></p>
+		<p>Regularly reviewing and ensuring user access and permissions for the service are appropriate and limited to authorised users only (including general user and privileged accounts). Ensuring that robust processes are in place for joiners, movers and leavers (JML)<xref href="https://github.com/ministryofjustice/security-guidance/blob/main/dita/end-or-change-of-employment.dita format="dita">End or change of employment - MoJ Security Guidance</xref></p>
 		</body>
 		
 	</topic>
